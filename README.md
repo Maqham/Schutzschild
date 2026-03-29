@@ -50,7 +50,7 @@ Schutzschild/
 javac -d bin src/schutzschild/*.java
 
 # Starten
-java -cp bin schutzschild.GameWin
+java -cp bin schutzschild.Main
 ```
 
 > **Hinweis:** Falls die Hauptklasse anders heißt, bitte den Klassennamen mit der `main()`-Methode anpassen.
