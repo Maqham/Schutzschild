@@ -1,6 +1,6 @@
 # Schutzschild – Java 2D Arcade Game
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 **Schutzschild** ist ein 2D-Arcade-Spiel in Java, bei dem Kinder (6–14 Jahre) spielerisch lernen, warum starke Passwörter wichtig sind. Der Spieler steuert eine Rakete, sammelt Symbole für Zahlen, Buchstaben und Sonderzeichen – und je stärker das „Passwort" wird, desto besser kann die Rakete Viren abwehren.
